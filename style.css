@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Cormorant+Garamond');
+h2{
+    color:#4eff00;
+}
+h3{
+    color: #000000;
+    font-family: Amatic SC;
+}
+body{
+    background-color: #d1ffe4;
+    font-family: Cormorant Garamond;
+    color: black;
+    font-kerning: none;
+    
+}
+
+a {
+    color: white; 
+}
+a:hover {
+    color: hotpink;
+}
+#left-col{
+    background-color: #0e8b21;
+    width: 21em;
+    height: 100vh;
+}
+#profile-pic{
+    border-radius: 50%;
+}
+ul{
+    list-style: none;
+}
+#right-col{
+    background-color: #d1ffe4;
+}
+
+#Education{
+    margin-top: 100;
+}
+H4 {
+    color: #0e741e;
+    font-style: oblique;
+    font-language-override: unset;
+    font-variant-caps: petite-caps;
+}
+.surname{
+    border-color: red;
+    color:darkgreen;
+}
